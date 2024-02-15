@@ -1,3 +1,0 @@
-function parsave(fname, x,fval,res,f_sta,f_prop_50,f_prop_75,f_prop_100,f_opt,prob_opt,prob_prop_100,prob_prop_75,prob_prop_50,x_range_min,x_range_prop_50,x_range_prop_75,x_range_prop_100,prob_fail,rep,t_app,tEnd)
-  save(fname, 'x','fval','res','f_sta','f_prop_50','f_prop_75','f_prop_100','f_opt','prob_opt','prob_prop_100','prob_prop_75','prob_prop_50','x_range_min','x_range_prop_50','x_range_prop_75','x_range_prop_100','prob_fail','rep','t_app','tEnd');
-end
